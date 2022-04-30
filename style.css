@@ -1,0 +1,22 @@
+html, body {
+  width: 90%;
+  height: 90%;
+}
+
+h1 {
+  color: orangered;
+  margin-left: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+h2 {
+  color: green;
+  margin-left: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  color: blueviolet;
+  margin-left: 20px;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
